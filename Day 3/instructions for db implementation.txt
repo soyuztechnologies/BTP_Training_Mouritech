@@ -1,0 +1,93 @@
+1. create a new interface IVendorPersistence inherit from JpaRepository
+
+public interface IVendorPersistence extends JpaRepository<Vendor, String> {
+
+}
+
+2. Update code for vendor service class to make call to DB
+
+
+@Component
+public class VendorService {
+	//data: lt_tab type table of lfa1.
+//		HashMap<String, Vendor> vendors = new HashMap<String, Vendor>();
+//		@Autowired
+//		Vendor x;
+//		@Autowired
+//		Vendor y;
+//		@Autowired
+//		Vendor z;
+		
+		@Autowired
+		private IVendorPersistence vendorDB;
+		
+		public List<Vendor> getVendor(){
+			//fillVendor();
+			return vendorDB.findAll();
+		}
+		
+		public Vendor getVendorById(String code) {
+			//fillVendor();
+			Optional<Vendor> searchResult = vendorDB.findById(code);
+			if(!searchResult.isPresent()) {
+				return new Vendor("NOTFOUND","","","","","", "", null);
+			}
+			return searchResult.get();
+			
+		}
+		
+		public Vendor createVendor(Vendor vendorrec) {
+			vendorrec.setCode("NEW1");
+			//TODO: Later insert data to database
+			return vendorDB.save(vendorrec);
+		}
+		
+		public Vendor updateVendor(Vendor vendorrec) {
+			vendorrec.setRegDate(new Date());
+			return vendorrec;
+		}
+		
+		//Like a function module which prepares the data
+//		public void fillVendor() {
+//			// TODO Auto-generated method stub
+//			//Append WA to Itab
+//			vendors.put("1", x);
+//			vendors.put("2", y);
+//			vendors.put("3", z);
+//		}	
+}
+
+
+3. Update controller class function to return list of data
+
+@RequestMapping("/vendors")
+	//GET_ENTITY_SET function in DPC Extension class
+	public List<Vendor> getVendor(){
+		return vendorService.getVendor();
+	}
+
+
+4. Maintain application properties
+
+## default connection pool
+spring.datasource.hikari.connectionTimeout=20000
+spring.datasource.hikari.maximumPoolSize=5
+
+## PostgreSQL
+spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
+spring.datasource.username=postgres
+spring.datasource.password=Welcome1
+
+#drop n create table again, good for testing, comment this in production
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=create
+
+5. in pom.xml maintain postgre driver dependency
+
+<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+		<dependency>
+		    <groupId>org.postgresql</groupId>
+		    <artifactId>postgresql</artifactId>
+		    <version>42.4.0</version>
+		</dependency>
+
