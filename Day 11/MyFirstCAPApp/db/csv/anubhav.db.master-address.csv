@@ -1,0 +1,1001 @@
+id,city,countryCode,region
+1,Lazaro Cardenas,Mexico,America/Mexico_City
+2,Spanish Wells,Bahamas,America/Nassau
+3,Shidu,China,Asia/Shanghai
+4,Drásov,Czech Republic,Europe/Prague
+5,Javhlant,Mongolia,Asia/Ulaanbaatar
+6,Maliana,East Timor,Asia/Makassar
+7,Orda,Russia,Asia/Yekaterinburg
+8,Oyem,Gabon,Africa/Libreville
+9,Dawangzhuang,China,Asia/Shanghai
+10,Sirinhaém,Brazil,America/Recife
+11,Malvinas Argentinas,Argentina,America/Argentina/Cordoba
+12,Rāmganj,Bangladesh,Asia/Dhaka
+13,Milton,United Kingdom,Europe/London
+14,Santa Catalina,Uruguay,America/Montevideo
+15,Amu Gulang Baolige,China,Asia/Harbin
+16,Tomelilla,Sweden,Europe/Stockholm
+17,Tucson,United States,America/Phoenix
+18,Shahe,China,Asia/Shanghai
+19,Sobhādero,Pakistan,Asia/Karachi
+20,Dingjiayao,China,Asia/Chongqing
+21,Ningxin,China,Asia/Shanghai
+22,Léfka,Cyprus,Asia/Nicosia
+23,Böhöt,Mongolia,Asia/Ulaanbaatar
+24,Normandin,Canada,America/Montreal
+25,Américo Brasiliense,Brazil,America/Sao_Paulo
+26,Bassar,Togo,Africa/Lome
+27,Potlot,Indonesia,Asia/Jakarta
+28,La Curva,Philippines,Asia/Manila
+29,Guaçuí,Brazil,America/Sao_Paulo
+30,Vélo,Greece,Europe/Athens
+31,Xihu,China,Asia/Shanghai
+32,Lawa-an,Philippines,Asia/Manila
+33,Nangalimang,Indonesia,Asia/Makassar
+34,Holma,Nigeria,Africa/Lagos
+35,Ushumun,Russia,Asia/Yakutsk
+36,Kramsk,Poland,Europe/Warsaw
+37,Qingxi,China,Asia/Chongqing
+38,Nkwerre,Nigeria,Africa/Lagos
+39,Bum Bum,Venezuela,America/Caracas
+40,Al Jawādīyah,Syria,Europe/Istanbul
+41,Narew,Poland,Europe/Warsaw
+42,Marjayoûn,Lebanon,Asia/Beirut
+43,Dzhebariki-Khaya,Russia,Asia/Yakutsk
+44,Okigwi,Nigeria,Africa/Lagos
+45,Nurlat,Russia,Europe/Moscow
+46,Lužani,Croatia,Europe/Zagreb
+47,Pýrgos,Greece,Europe/Athens
+48,Cahul,Moldova,Europe/Chisinau
+49,Åkersberga,Sweden,Europe/Stockholm
+50,Xicun,China,Asia/Shanghai
+51,Xingou,China,Asia/Chongqing
+52,Padaan,Indonesia,Asia/Jakarta
+53,Hrodna,Belarus,Europe/Minsk
+54,Suka Makmue,Indonesia,Asia/Pontianak
+55,Palmas,Brazil,America/Araguaina
+56,Saijō,Japan,Asia/Tokyo
+57,‘Eilabun,Israel,Asia/Jerusalem
+58,Sanyang,China,Asia/Shanghai
+59,Qingquan,China,Asia/Chongqing
+60,Thạnh Mỹ,Vietnam,Asia/Ho_Chi_Minh
+61,Särevere,Estonia,Europe/Tallinn
+62,Putrajaya,Malaysia,Asia/Kuala_Lumpur
+63,Qiling,China,Asia/Shanghai
+64,Moinhos,Portugal,Europe/Lisbon
+65,Lubumbashi,Democratic Republic of the Congo,Africa/Lubumbashi
+66,Zhenyuan,China,Asia/Chongqing
+67,Croissy-sur-Seine,France,Europe/Paris
+68,Al Miqdādīyah,Iraq,Asia/Baghdad
+69,Setonokalong,Indonesia,Asia/Jakarta
+70,Goiás,Brazil,America/Sao_Paulo
+71,Cilaja,Indonesia,Asia/Jakarta
+72,Medvezh’yegorsk,Russia,Europe/Moscow
+73,Kaum,Indonesia,Asia/Jakarta
+74,Carcassonne,France,Europe/Paris
+75,El Mirador,Mexico,America/Mexico_City
+76,Taishihe,China,Asia/Chongqing
+77,Kanie,Japan,Asia/Tokyo
+78,Valencia,Philippines,Asia/Manila
+79,Radymno,Poland,Europe/Warsaw
+80,Tai Po,Hong Kong,Asia/Hong_Kong
+81,Västra Frölunda,Sweden,Europe/Stockholm
+82,Shuangqiao,China,Asia/Shanghai
+83,Taoyuan,China,Asia/Chongqing
+84,Ciwidara,Indonesia,Asia/Jakarta
+85,Leiwang,China,Asia/Chongqing
+86,Grzechynia,Poland,Europe/Warsaw
+87,Kabaty,Poland,Europe/Warsaw
+88,Funabashi,Japan,Asia/Tokyo
+89,Bagdadi,Georgia,Asia/Tbilisi
+90,Olbramovice,Czech Republic,Europe/Prague
+91,KwaMbonambi,South Africa,Africa/Johannesburg
+92,Huishi,China,Asia/Chongqing
+93,Wadi,China,Asia/Harbin
+94,Fruitvale,Canada,America/Los_Angeles
+95,Kamigyō-ku,Japan,Asia/Tokyo
+96,Pittsburgh,United States,America/New_York
+97,Tajumulco,Guatemala,America/Guatemala
+98,Bluefields,Jamaica,America/Jamaica
+99,Changfeng,China,Asia/Chongqing
+100,Łaziska Górne,Poland,Europe/Warsaw
+101,Shawnee Mission,United States,America/Chicago
+102,Pule,Indonesia,Asia/Jakarta
+103,Nikhom Kham Soi,Thailand,Asia/Bangkok
+104,Mayong,China,Asia/Chongqing
+105,Yutan,China,Asia/Chongqing
+106,Thị Trấn Nguyên Bình,Vietnam,Asia/Ho_Chi_Minh
+107,Chumpi,Peru,America/Lima
+108,Shimeitang,China,Asia/Chongqing
+109,Subotica,Serbia,Europe/Belgrade
+110,Montes Claros,Brazil,America/Sao_Paulo
+111,Robertsport,Liberia,Africa/Monrovia
+112,Nangabere,Indonesia,Asia/Makassar
+113,Matayumtayum,Philippines,Asia/Manila
+114,Sainte-Thérèse,Canada,America/Montreal
+115,Santo Tomé,Argentina,America/Argentina/Cordoba
+116,Tmourghout,Morocco,Africa/Casablanca
+117,Mātli,Pakistan,Asia/Karachi
+118,Baloc,Philippines,Asia/Manila
+119,Benito Juarez,Mexico,America/Monterrey
+120,Xinmin,China,Asia/Harbin
+121,Minanga Norte,Philippines,Asia/Manila
+122,Kusheriki,Nigeria,Africa/Lagos
+123,Huanza,Peru,America/Lima
+124,Cabak Satu,Indonesia,Asia/Jakarta
+125,Wangjiahe,China,Asia/Shanghai
+126,Zhize,China,Asia/Chongqing
+127,Temandangjero,Indonesia,Asia/Jakarta
+128,Vysotskoye,Russia,Europe/Moscow
+129,Olenegorsk,Russia,Europe/Moscow
+130,Guiyang,China,Asia/Chongqing
+131,Thị Trấn Ngan Dừa,Vietnam,Asia/Ho_Chi_Minh
+132,Tarbes,France,Europe/Paris
+133,Muquiyauyo,Peru,America/Lima
+134,Kitale,Kenya,Africa/Nairobi
+135,Arys,Kazakhstan,Asia/Almaty
+136,Ueki,Japan,Asia/Tokyo
+137,Dinghuo,China,Asia/Shanghai
+138,Ballyboden,Ireland,Europe/Dublin
+139,Niedźwiedź,Poland,Europe/Warsaw
+140,Aytos,Bulgaria,Europe/Sofia
+141,Bhamdoun,Lebanon,Asia/Beirut
+142,Nisí,Greece,Europe/Athens
+143,Jimeta,Nigeria,Africa/Lagos
+144,Lushnjë,Albania,Europe/Tirane
+145,Gading,Indonesia,Asia/Jakarta
+146,Stupsk,Poland,Europe/Warsaw
+147,Bojawa,Indonesia,Asia/Makassar
+148,Longtang,China,Asia/Chongqing
+149,San Alberto,Colombia,America/Bogota
+150,Znamenskoye,Russia,Europe/Moscow
+151,Cartagena,Colombia,America/Bogota
+152,Shengze,China,Asia/Shanghai
+153,Chaem Luang,Thailand,Asia/Bangkok
+154,Mjamaoué,Comoros,Indian/Comoro
+155,Kopidlno,Czech Republic,Europe/Prague
+156,Daqiao,China,Asia/Chongqing
+157,Duas Igrejas,Portugal,Europe/Madrid
+158,Burrel,Albania,Europe/Tirane
+159,Bojonggenteng,Indonesia,Asia/Jakarta
+160,Tanggulangin,Indonesia,Asia/Jakarta
+161,Yihe,China,Asia/Chongqing
+162,Chiguata,Peru,America/Lima
+163,Francistown,Botswana,Africa/Gaborone
+164,Mahdishahr,Iran,Asia/Tehran
+165,Amman,Jordan,Asia/Amman
+166,Ural,Russia,Asia/Krasnoyarsk
+167,Balabag,Philippines,Asia/Manila
+168,Pilang,Indonesia,Asia/Jakarta
+169,Tuymazy,Russia,Asia/Yekaterinburg
+170,Damanhūr,Egypt,Africa/Cairo
+171,Basqal,Azerbaijan,Asia/Baku
+172,Vale de Touros,Portugal,Europe/Lisbon
+173,Sambirejo,Indonesia,Asia/Jakarta
+174,Evijärvi,Finland,Europe/Helsinki
+175,Kurkino,Russia,Europe/Moscow
+176,Nowy Staw,Poland,Europe/Warsaw
+177,Jiling,China,Asia/Chongqing
+178,Sāh,Yemen,Asia/Aden
+179,Budapest,Hungary,Europe/Budapest
+180,Houston,United States,America/Chicago
+181,Žemaičių Naumiestis,Lithuania,Europe/Vilnius
+182,Železniki,Slovenia,Europe/Ljubljana
+183,Jintan,China,Asia/Chongqing
+184,Jacksonville,United States,America/New_York
+185,Mirsk,Poland,Europe/Warsaw
+186,Litan,China,Asia/Chongqing
+187,Cochabamba,Peru,America/Lima
+188,Heze,China,Asia/Shanghai
+189,Ipoh,Malaysia,Asia/Kuala_Lumpur
+190,Loakulu,Indonesia,Asia/Makassar
+191,Mlimba,Tanzania,Africa/Dar_es_Salaam
+192,Solntsevo,Russia,Europe/Moscow
+193,Täby,Sweden,Europe/Stockholm
+194,Maslovare,Bosnia and Herzegovina,Europe/Sarajevo
+195,Bizana,South Africa,Africa/Johannesburg
+196,Duwakbuter,Indonesia,Asia/Jakarta
+197,Delgerhaan,Mongolia,Asia/Ulaanbaatar
+198,Stockholm,Sweden,Europe/Stockholm
+199,Candelária,Portugal,Africa/Accra
+200,Pizhma,Russia,Europe/Moscow
+201,Pokrov,Russia,Europe/Moscow
+202,Lille,France,Europe/Paris
+203,Ko Pha Ngan,Thailand,Asia/Bangkok
+204,Rutana,Burundi,Africa/Bujumbura
+205,Delong,China,Asia/Chongqing
+206,Zhangjiachang,China,Asia/Shanghai
+207,Poitiers,France,Europe/Paris
+208,Duszniki-Zdrój,Poland,Europe/Warsaw
+209,Przelewice,Poland,Europe/Warsaw
+210,Peras Ruivas,Portugal,Europe/Lisbon
+211,Vårby,Sweden,Europe/Stockholm
+212,Bastia,France,Europe/Paris
+213,Takāb,Iran,Asia/Tehran
+214,Agía Paraskeví,Greece,Europe/Athens
+215,Sukosari,Indonesia,Asia/Jakarta
+216,Kefang,China,Asia/Shanghai
+217,Zumarraga,Philippines,Asia/Manila
+218,Viñales,Cuba,America/Havana
+219,Andongsari,Indonesia,Asia/Jakarta
+220,Bourg-en-Bresse,France,Europe/Paris
+221,Kapiri Mposhi,Zambia,Africa/Lusaka
+222,Piet Retief,South Africa,Africa/Johannesburg
+223,Namalenga,Tanzania,Africa/Dar_es_Salaam
+224,Zbraslavice,Czech Republic,Europe/Prague
+225,Hualin,China,Asia/Shanghai
+226,Armstrong,Canada,America/Vancouver
+227,Sa Pá,Vietnam,Asia/Ho_Chi_Minh
+228,Qaffīn,Palestinian Territory,Asia/Jerusalem
+229,Villa Aglipay,Philippines,Asia/Manila
+230,Bigaan,Philippines,Asia/Manila
+231,Mbalmayo,Cameroon,Africa/Douala
+232,Keumala,Indonesia,Asia/Jakarta
+233,Washington,United States,America/New_York
+234,Hongtang,China,Asia/Shanghai
+235,Phanom Phrai,Thailand,Asia/Bangkok
+236,Hutang,China,Asia/Shanghai
+237,Aleshtar,Iran,Asia/Tehran
+238,Huagai,China,Asia/Chongqing
+239,La Virginia,Colombia,America/Bogota
+240,Bovec,Slovenia,Europe/Rome
+241,Duncan Town,Bahamas,America/Havana
+242,Ad Dīs ash Sharqīyah,Yemen,Asia/Aden
+243,Sasnovy Bor,Belarus,Europe/Minsk
+244,Luangwa,Zambia,Africa/Harare
+245,Shuibian,China,Asia/Shanghai
+246,Mirosławiec,Poland,Europe/Warsaw
+247,Värnamo,Sweden,Europe/Stockholm
+248,Staré Město,Czech Republic,Europe/Prague
+249,Gjegjan,Albania,Europe/Tirane
+250,Queenstown,South Africa,Africa/Johannesburg
+251,Pushkino,Russia,Europe/Moscow
+252,Providencia,Mexico,America/Chihuahua
+253,Huangjingba,China,Asia/Chongqing
+254,Castrovirreyna,Peru,America/Lima
+255,Dalo,Indonesia,Asia/Makassar
+256,Grevená,Greece,Europe/Athens
+257,Tumxuk,China,Asia/Kashgar
+258,Posse,Brazil,America/Sao_Paulo
+259,Beloye,Russia,Europe/Moscow
+260,Nonoichi,Japan,Asia/Tokyo
+261,Serh,China,Asia/Chongqing
+262,Los Angeles,United States,America/Los_Angeles
+263,Berlin,Germany,Europe/Berlin
+264,Ar Riqqah,Kuwait,Asia/Kuwait
+265,Tierp,Sweden,Europe/Stockholm
+266,Petrolina,Brazil,America/Recife
+267,Luopu,China,Asia/Chongqing
+268,Wahai,Indonesia,Asia/Jayapura
+269,Heemskerk,Netherlands,Europe/Amsterdam
+270,Solţānābād,Iran,Asia/Tehran
+271,Huanshan,China,Asia/Shanghai
+272,Daguo,China,Asia/Shanghai
+273,Aş Şūrah aş Şaghīrah,Syria,Asia/Damascus
+274,Loandjili,Republic of the Congo,Africa/Brazzaville
+275,Donggong,China,Asia/Chongqing
+276,Camino Real,Mexico,America/Mexico_City
+277,Kulun,China,Asia/Harbin
+278,Neẖalim,Israel,Asia/Jerusalem
+279,Gaoshi,China,Asia/Chongqing
+280,Terpinnya,Ukraine,Europe/Zaporozhye
+281,Mweka,Democratic Republic of the Congo,Africa/Lubumbashi
+282,Qiewa,China,Asia/Urumqi
+283,San Teodoro,Philippines,Asia/Manila
+284,Kristiansand S,Norway,Europe/Oslo
+285,Malgobek,Russia,Europe/Moscow
+286,Oranjestad,Aruba,America/Aruba
+287,Chuguyevka,Russia,Asia/Vladivostok
+288,Conqueiros,Portugal,Europe/Lisbon
+289,Nantes,France,Europe/Paris
+290,Boucinha,Portugal,Europe/Lisbon
+291,Menggala,Indonesia,Asia/Jakarta
+292,Birmingham,United States,America/Chicago
+293,Skënderbegas,Albania,Europe/Tirane
+294,Panjakent,Tajikistan,Asia/Dushanbe
+295,Cielądz,Poland,Europe/Warsaw
+296,Tianya,China,Asia/Chongqing
+297,Shuitianzhuang,China,Asia/Chongqing
+298,Chalu,China,Asia/Shanghai
+299,Borzęta,Poland,Europe/Warsaw
+300,Dongshe,China,Asia/Shanghai
+301,Nacka,Sweden,Europe/Stockholm
+302,Kertahayu,Indonesia,Asia/Jakarta
+303,Tokombere,Nigeria,Africa/Lagos
+304,Conchagua,El Salvador,America/El_Salvador
+305,Sanshilipu,China,Asia/Chongqing
+306,Mobara,Japan,Asia/Tokyo
+307,Esch-sur-Alzette,Luxembourg,Europe/Luxembourg
+308,Ceranów,Poland,Europe/Warsaw
+309,Basīrpur,Pakistan,Asia/Karachi
+310,Thị Trấn Tủa Chùa,Vietnam,Asia/Ho_Chi_Minh
+311,Boa Viagem,Brazil,America/Fortaleza
+312,Ningde,China,Asia/Shanghai
+313,Lukovo,Macedonia,Europe/Skopje
+314,Kameda-honchō,Japan,Asia/Tokyo
+315,Soloneshnoye,Russia,Asia/Omsk
+316,Bethanie,Namibia,Africa/Windhoek
+317,Formosa do Rio Preto,Brazil,America/Bahia
+318,Longguang,China,Asia/Chongqing
+319,Mukayrās,Yemen,Asia/Aden
+320,Pedrulheira,Portugal,Europe/Lisbon
+321,Luniao,China,Asia/Shanghai
+322,Sadananya,Indonesia,Asia/Jakarta
+323,Sepekov,Czech Republic,Europe/Prague
+324,Gabasumdo,China,Asia/Chongqing
+325,Hrib-Loški Potok,Slovenia,Europe/Ljubljana
+326,Xigebi,China,Asia/Urumqi
+327,Krajan Kinanti,Indonesia,Asia/Jakarta
+328,Barcin,Poland,Europe/Warsaw
+329,Guanmian,China,Asia/Chongqing
+330,Konstantynów Łódzki,Poland,Europe/Warsaw
+331,Zhanghua,China,Asia/Chongqing
+332,Antou,China,Asia/Shanghai
+333,Tsagaanders,Mongolia,Asia/Ulaanbaatar
+334,Cape Town,South Africa,Africa/Johannesburg
+335,Chengnan,China,Asia/Shanghai
+336,Wiphawadi,Thailand,Asia/Bangkok
+337,Fukuma,Japan,Asia/Tokyo
+338,Zhlobin,Belarus,Europe/Minsk
+339,Sugito,Japan,Asia/Tokyo
+340,Cisagu,Indonesia,Asia/Jakarta
+341,Ḩuraytān,Syria,Asia/Damascus
+342,Jiaomingsi,China,Asia/Shanghai
+343,Ledeč nad Sázavou,Czech Republic,Europe/Prague
+344,Sawin,Poland,Europe/Warsaw
+345,Itajaí,Brazil,America/Sao_Paulo
+346,Matsuyama,Japan,Asia/Tokyo
+347,Paris 14,France,Europe/Paris
+348,Umeå,Sweden,Europe/Stockholm
+349,Jovim,Portugal,Europe/Lisbon
+350,Kuching,Malaysia,Asia/Kuching
+351,Askiz,Russia,Asia/Krasnoyarsk
+352,Skuodas,Lithuania,Europe/Vilnius
+353,Duncans,Jamaica,America/Jamaica
+354,Aleksotas,Lithuania,Europe/Vilnius
+355,Angra dos Reis,Brazil,America/Sao_Paulo
+356,Refojos de Riba de Ave,Portugal,Europe/Lisbon
+357,Shaxi,China,Asia/Chongqing
+358,Rozkishne,Ukraine,Europe/Zaporozhye
+359,Jūrmala,Latvia,Europe/Riga
+360,Xinyang,China,Asia/Shanghai
+361,Bothaville,South Africa,Africa/Johannesburg
+362,Elista,Russia,Europe/Moscow
+363,Raheny,Ireland,Europe/Dublin
+364,Al Matlīn,Tunisia,Africa/Tunis
+365,Diamantino,Brazil,America/Cuiaba
+366,Jimaguayú,Cuba,America/Havana
+367,Atabayan,Philippines,Asia/Manila
+368,Shangyu,China,Asia/Shanghai
+369,Vallegrande,Bolivia,America/La_Paz
+370,Bendo,Indonesia,Asia/Jakarta
+371,Loughrea,Ireland,Europe/Dublin
+372,Fort Worth,United States,America/Chicago
+373,Drosáto,Greece,Europe/Athens
+374,Ozerki,Russia,Europe/Moscow
+375,Xingguo,China,Asia/Shanghai
+376,Fengle,China,Asia/Chongqing
+377,Shimen,China,Asia/Chongqing
+378,Knoxville,United States,America/New_York
+379,Fuzihe,China,Asia/Shanghai
+380,Pendawanbaru,Indonesia,Asia/Makassar
+381,Évreux,France,Europe/Paris
+382,Camiri,Bolivia,America/La_Paz
+383,Kyustendil,Bulgaria,Europe/Sofia
+384,Jimo,China,Asia/Shanghai
+385,Moa,Cuba,America/Havana
+386,Cibolang,Indonesia,Asia/Jakarta
+387,Longhuashan,China,Asia/Chongqing
+388,Conception Bay South,Canada,America/St_Johns
+389,Tojeira,Portugal,Europe/Lisbon
+390,Kurnāz,Syria,Asia/Damascus
+391,Sumy,Ukraine,Europe/Kiev
+392,Baolong,China,Asia/Chongqing
+393,Enschede,Netherlands,Europe/Amsterdam
+394,Sufang,China,Asia/Chongqing
+395,Кондово,Macedonia,Europe/Skopje
+396,Dalang,China,Asia/Chongqing
+397,Yangzhen,China,Asia/Harbin
+398,Goba,Ethiopia,Africa/Addis_Ababa
+399,Minuwangoda,Sri Lanka,Asia/Colombo
+400,Casisang,Philippines,Asia/Manila
+401,Huangshagang,China,Asia/Shanghai
+402,Orlando,United States,America/New_York
+403,Stockholm,Sweden,Europe/Stockholm
+404,Pereira,Portugal,Europe/Madrid
+405,Sundsvall,Sweden,Europe/Stockholm
+406,Bunawan,Philippines,Asia/Manila
+407,Campinas,Brazil,America/Sao_Paulo
+408,Tojal,Portugal,Europe/Lisbon
+409,Solna,Sweden,Europe/Stockholm
+410,East End,Cayman Islands,America/Cayman
+411,Santa Ana,Venezuela,America/Caracas
+412,Blois,France,Europe/Paris
+413,Pameče,Slovenia,Europe/Ljubljana
+414,Ozubulu,Nigeria,Africa/Lagos
+415,Stockholm,Sweden,Europe/Stockholm
+416,Uzunovo,Russia,Europe/Moscow
+417,Maurisu,Indonesia,Asia/Makassar
+418,Lidu,China,Asia/Chongqing
+419,Caluire-et-Cuire,France,Europe/Paris
+420,Jawand,Afghanistan,Asia/Kabul
+421,Chizhou,China,Asia/Shanghai
+422,Tambakan,Indonesia,Asia/Jakarta
+423,Qorashina,Uzbekistan,Asia/Samarkand
+424,Krasnoarmiys’k,Ukraine,Europe/Zaporozhye
+425,U Minh,Vietnam,Asia/Ho_Chi_Minh
+426,Zoumaling,China,Asia/Shanghai
+427,Zhenxi,China,Asia/Chongqing
+428,Las Garcitas,Argentina,America/Argentina/Cordoba
+429,Kobiernice,Poland,Europe/Warsaw
+430,Jaguaquara,Brazil,America/Bahia
+431,Iguape,Brazil,America/Sao_Paulo
+432,Ladário,Portugal,Europe/Lisbon
+433,Vista Hermosa,Mexico,America/Mexico_City
+434,Arīḩā,Syria,Asia/Damascus
+435,Haninge,Sweden,Europe/Stockholm
+436,Saint-Paul,Reunion,Indian/Reunion
+437,Bolanon,Philippines,Asia/Manila
+438,Hortolândia,Brazil,America/Sao_Paulo
+439,Gislaved,Sweden,Europe/Stockholm
+440,Qiaotou,China,Asia/Chongqing
+441,Bertelhe,Portugal,Europe/Lisbon
+442,Xinhua,China,Asia/Chongqing
+443,Sandymount,Ireland,Europe/Dublin
+444,Tula,Russia,Europe/Moscow
+445,El Paraíso,Honduras,America/Tegucigalpa
+446,Stockholm,Sweden,Europe/Stockholm
+447,Coronel Suárez,Argentina,America/Argentina/Buenos_Aires
+448,Spárti,Greece,Europe/Athens
+449,T’ongch’ŏn-ŭp,North Korea,Asia/Pyongyang
+450,Ordzhonikidze,Kazakhstan,Asia/Qyzylorda
+451,Maniwaki,Canada,America/Montreal
+452,Juripiranga,Brazil,America/Fortaleza
+453,Oepuah,Indonesia,Asia/Makassar
+454,Maopingchang,China,Asia/Chongqing
+455,Hongling,China,Asia/Chongqing
+456,Bedayutalang,Indonesia,Asia/Jakarta
+457,Pulautemiang,Indonesia,Asia/Jakarta
+458,Gangkoujie,China,Asia/Shanghai
+459,Skelleftehamn,Sweden,Europe/Stockholm
+460,Vicente Guerrero,Mexico,America/Mexico_City
+461,Puerto Padre,Cuba,America/Havana
+462,La Jagua de Ibirico,Colombia,America/Bogota
+463,Kuala Lumpur,Malaysia,Asia/Kuala_Lumpur
+464,Williston,South Africa,Africa/Johannesburg
+465,Houping,China,Asia/Chongqing
+466,Chase,Canada,America/Vancouver
+467,Nūsay,Afghanistan,Asia/Dushanbe
+468,Megion,Russia,Asia/Yekaterinburg
+469,Cidima,Indonesia,Asia/Jakarta
+470,Postoloprty,Czech Republic,Europe/Prague
+471,Masuguru,Tanzania,Africa/Dar_es_Salaam
+472,Phra Phutthabat,Thailand,Asia/Bangkok
+473,Gamleby,Sweden,Europe/Stockholm
+474,Ngandangan,Indonesia,Asia/Jakarta
+475,Cluses,France,Europe/Paris
+476,Oytal,Kazakhstan,Asia/Almaty
+477,Tulay na Lupa,Philippines,Asia/Manila
+478,Camaçari,Brazil,America/Bahia
+479,Dolní Sloupnice,Czech Republic,Europe/Prague
+480,Fort Wayne,United States,America/Indiana/Indianapolis
+481,Dongluqiao,China,Asia/Shanghai
+482,Jiagao,China,Asia/Chongqing
+483,Sātkania,Bangladesh,Asia/Dhaka
+484,Mirosławiec,Poland,Europe/Warsaw
+485,Useldange,Luxembourg,Europe/Brussels
+486,Binlod,Philippines,Asia/Manila
+487,Znamenka,Russia,Europe/Moscow
+488,Sławoborze,Poland,Europe/Warsaw
+489,Purac,Philippines,Asia/Manila
+490,Ichinomiya,Japan,Asia/Tokyo
+491,Thatèng,Laos,Asia/Vientiane
+492,Łodygowice,Poland,Europe/Warsaw
+493,Magdeburg,Germany,Europe/Berlin
+494,La Estancia,Honduras,America/Tegucigalpa
+495,Garango,Burkina Faso,Africa/Ouagadougou
+496,Tanza,Philippines,Asia/Manila
+497,Al Midyah,Palestinian Territory,Asia/Jerusalem
+498,Wakaseko,Indonesia,Asia/Makassar
+499,Hachiōji,Japan,Asia/Tokyo
+500,Varberg,Sweden,Europe/Stockholm
+501,Korydallós,Greece,Europe/Athens
+502,Nador,Morocco,Africa/Casablanca
+503,Jamalteca,Honduras,America/Tegucigalpa
+504,Červená Voda,Czech Republic,Europe/Prague
+505,Nunchía,Colombia,America/Bogota
+506,Qiqing,China,Asia/Urumqi
+507,Danao,Philippines,Asia/Manila
+508,Ḑubāh,Yemen,Asia/Aden
+509,Nguigmi,Niger,Africa/Niamey
+510,Denpasar,Indonesia,Asia/Makassar
+511,Kawengan,Indonesia,Asia/Jakarta
+512,Daping,China,Asia/Chongqing
+513,Yongning,China,Asia/Shanghai
+514,Chizhou,China,Asia/Shanghai
+515,Dasuk,Indonesia,Asia/Jakarta
+516,Norzagaray,Philippines,Asia/Manila
+517,Carreira,Portugal,Europe/Lisbon
+518,Montería,Colombia,America/Bogota
+519,Gramoteino,Russia,Asia/Novokuznetsk
+520,Zhucun,China,Asia/Chongqing
+521,Esfarāyen,Iran,Asia/Tehran
+522,Boulsa,Burkina Faso,Africa/Ouagadougou
+523,An Nāşirīyah,Iraq,Asia/Baghdad
+524,Kaputian,Philippines,Asia/Manila
+525,Shuibian,China,Asia/Shanghai
+526,Asprángeloi,Greece,Europe/Athens
+527,Kadugadung,Indonesia,Asia/Jakarta
+528,Sangke,China,Asia/Chongqing
+529,Petiga,Indonesia,Asia/Makassar
+530,Zābolī,Iran,Asia/Tehran
+531,Żabbar,Malta,Europe/Malta
+532,Las Vegas,Honduras,America/Tegucigalpa
+533,Kangar,Malaysia,Asia/Kuala_Lumpur
+534,Antanhol,Portugal,Europe/Lisbon
+535,Bat Khela,Pakistan,Asia/Karachi
+536,Jinshi,China,Asia/Chongqing
+537,Wanareja,Indonesia,Asia/Jakarta
+538,Aibura,Indonesia,Asia/Makassar
+539,Talabaan,Philippines,Asia/Manila
+540,Newport,United Kingdom,Europe/London
+541,Yamrat,Nigeria,Africa/Lagos
+542,Antas,Portugal,Europe/Lisbon
+543,Bantarpanjang,Indonesia,Asia/Jakarta
+544,Zagora,Morocco,Africa/Casablanca
+545,Zbrosławice,Poland,Europe/Warsaw
+546,Ikšķile,Latvia,Europe/Riga
+547,Yamada,Japan,Asia/Tokyo
+548,Bandhagen,Sweden,Europe/Stockholm
+549,Kampunganyar,Indonesia,Asia/Jakarta
+550,Arroyo Naranjo,Cuba,America/Havana
+551,Powidz,Poland,Europe/Warsaw
+552,Khon San,Thailand,Asia/Bangkok
+553,Kambar,Pakistan,Asia/Karachi
+554,Santa Lucia,Philippines,Asia/Manila
+555,Pankshin,Nigeria,Africa/Lagos
+556,Chengyue,China,Asia/Chongqing
+557,Meijiang,China,Asia/Shanghai
+558,Yanac,Peru,America/Lima
+559,Ponte da Pedra,Portugal,Europe/Lisbon
+560,Hässleholm,Sweden,Europe/Stockholm
+561,Kombandaru,Indonesia,Asia/Makassar
+562,Katrineholm,Sweden,Europe/Stockholm
+563,Carcavelos,Portugal,Europe/Lisbon
+564,Buchanan,Liberia,Africa/Monrovia
+565,Shahr-e Bābak,Iran,Asia/Tehran
+566,Birowo,Indonesia,Asia/Jakarta
+567,Zhangjiaji,China,Asia/Shanghai
+568,Mingelchaur,Azerbaijan,Asia/Baku
+569,Santa Cruz,Honduras,America/Tegucigalpa
+570,Banes,Cuba,America/Havana
+571,Aş Şaff,Egypt,Africa/Cairo
+572,Dahu Satu,Indonesia,Asia/Jakarta
+573,Shifang,China,Asia/Chongqing
+574,Powidz,Poland,Europe/Warsaw
+575,La Esperanza,Peru,America/Lima
+576,El Tablón,Honduras,America/Tegucigalpa
+577,La Asunción,Venezuela,America/Caracas
+578,Guri i Zi,Albania,Europe/Tirane
+579,Muang Sing,Laos,Asia/Chongqing
+580,Sanjia,China,Asia/Chongqing
+581,Winton,New Zealand,Pacific/Auckland
+582,Qinggis Han,China,Asia/Harbin
+583,Lile,China,Asia/Chongqing
+584,Pendembu,Sierra Leone,Africa/Freetown
+585,Rūjayb,Palestinian Territory,Asia/Hebron
+586,Smętowo Graniczne,Poland,Europe/Warsaw
+587,Allkaj,Albania,Europe/Tirane
+588,Pimenta Bueno,Brazil,America/Porto_Velho
+589,Lysogorskaya,Russia,Europe/Moscow
+590,Huishangang,China,Asia/Chongqing
+591,Shixi,China,Asia/Shanghai
+592,Rongai,Kenya,Africa/Nairobi
+593,Xiongchi,China,Asia/Chongqing
+594,As Sawdā,Syria,Asia/Damascus
+595,Tengrela,Ivory Coast,Africa/Abidjan
+596,Vladimir,Russia,Europe/Moscow
+597,Luo’ao,China,Asia/Shanghai
+598,Sanski Most,Bosnia and Herzegovina,Europe/Sarajevo
+599,Strzelin,Poland,Europe/Warsaw
+600,Mosty,Poland,Europe/Warsaw
+601,Behābād,Iran,Asia/Tehran
+602,Sabbah,Syria,Asia/Damascus
+603,Wang’er,China,Asia/Shanghai
+604,Tabuating,Philippines,Asia/Manila
+605,Portland,United States,America/Los_Angeles
+606,Jielin,China,Asia/Shanghai
+607,Kimil’tey,Russia,Asia/Irkutsk
+608,Hällefors,Sweden,Europe/Stockholm
+609,Dasiping,China,Asia/Harbin
+610,Catayauan,Philippines,Asia/Manila
+611,Tasovčići,Bosnia and Herzegovina,Europe/Sarajevo
+612,Horní Bříza,Czech Republic,Europe/Prague
+613,Sliema,Malta,Europe/Malta
+614,Vostryakovo,Russia,Europe/Moscow
+615,Chonghe,China,Asia/Harbin
+616,Jinta,China,Asia/Chongqing
+617,Shenshan,China,Asia/Shanghai
+618,Montreuil,France,Europe/Paris
+619,Cibitung,Indonesia,Asia/Jakarta
+620,Cibaregbeg,Indonesia,Asia/Jakarta
+621,Bočar,Serbia,Europe/Belgrade
+622,Saint-Louis,France,Europe/Paris
+623,Chongjin,North Korea,Asia/Pyongyang
+624,Baisha,China,Asia/Chongqing
+625,Jaciara,Brazil,America/Cuiaba
+626,Fuxing,China,Asia/Shanghai
+627,Tursunzoda,Tajikistan,Asia/Dushanbe
+628,Kaz,Russia,Asia/Novokuznetsk
+629,Vällingby,Sweden,Europe/Stockholm
+630,Thành Phố Thái Bình,Vietnam,Asia/Ho_Chi_Minh
+631,Ljupina,Croatia,Europe/Zagreb
+632,Hinunangan,Philippines,Asia/Manila
+633,Mališevo,Kosovo,Europe/Belgrade
+634,Ryazanskiy,Russia,Europe/Moscow
+635,Telangi Satu,Indonesia,Asia/Jakarta
+636,Predavac,Croatia,Europe/Zagreb
+637,Pizhma,Russia,Europe/Moscow
+638,Libu,China,Asia/Chongqing
+639,Fonte de Angeão,Portugal,Europe/Lisbon
+640,Al Baqāliţah,Tunisia,Africa/Tunis
+641,Shangqing,China,Asia/Shanghai
+642,Chalaco,Peru,America/Lima
+643,Albuquerque,United States,America/Denver
+644,Kompóti,Greece,Europe/Athens
+645,Skoroszyce,Poland,Europe/Warsaw
+646,Khorramdarreh,Iran,Asia/Tehran
+647,Taiping,China,Asia/Chongqing
+648,Divnoye,Russia,Europe/Moscow
+649,Lendangara Satu,Indonesia,Asia/Makassar
+650,Tabango,Philippines,Asia/Manila
+651,Santa Cecília,Brazil,America/Sao_Paulo
+652,Tongyang,China,Asia/Shanghai
+653,Vani,Georgia,Asia/Tbilisi
+654,Xiangba,China,Asia/Chongqing
+655,Jiangwan,China,Asia/Chongqing
+656,Ryūō,Japan,Asia/Tokyo
+657,Mayskiy,Russia,Europe/Moscow
+658,Baishuitan,China,Asia/Harbin
+659,Cervantes,Philippines,Asia/Manila
+660,Wailolung,Indonesia,Asia/Makassar
+661,Parthenay,France,Europe/Paris
+662,Timiryazevo,Kazakhstan,Asia/Yekaterinburg
+663,Gornyye Klyuchi,Russia,Asia/Vladivostok
+664,Kalapadua,Indonesia,Asia/Jakarta
+665,Dinan,France,Europe/Paris
+666,Soure,Portugal,Europe/Lisbon
+667,Kimméria,Greece,Europe/Athens
+668,Khān Neshīn,Afghanistan,Asia/Kabul
+669,Shufeng,China,Asia/Shanghai
+670,Padangtikar,Indonesia,Asia/Pontianak
+671,Bijelo Polje,Montenegro,Europe/Belgrade
+672,Edéa,Cameroon,Africa/Douala
+673,Brzyska,Poland,Europe/Warsaw
+674,Sayán,Peru,America/Lima
+675,Gunem,Indonesia,Asia/Jakarta
+676,Chakwāl,Pakistan,Asia/Karachi
+677,Pimian,China,Asia/Chongqing
+678,Shuanghe,China,Asia/Harbin
+679,Prabuty,Poland,Europe/Warsaw
+680,Karangranjong,Indonesia,Asia/Makassar
+681,Maguan,Indonesia,Asia/Jakarta
+682,Zhangjiaji,China,Asia/Shanghai
+683,Sukasari,Indonesia,Asia/Jakarta
+684,Maputsoe,Lesotho,Africa/Maseru
+685,Straszyn,Poland,Europe/Warsaw
+686,Mi’ersi,China,Asia/Shanghai
+687,Coaraci,Brazil,America/Bahia
+688,Krasnodon,Ukraine,Europe/Zaporozhye
+689,Lidköping,Sweden,Europe/Stockholm
+690,Pochayiv,Ukraine,Europe/Uzhgorod
+691,Przyborów,Poland,Europe/Warsaw
+692,Pakxé,Laos,Asia/Vientiane
+693,Chikola,Russia,Europe/Moscow
+694,Nanterre,France,Europe/Paris
+695,Hacıqabul,Azerbaijan,Asia/Baku
+696,Bom Jesus da Lapa,Brazil,America/Bahia
+697,Kawayan,Philippines,Asia/Manila
+698,Labuhantanggabesar,Indonesia,Asia/Jakarta
+699,Łapsze Niżne,Poland,Europe/Warsaw
+700,Halden,Norway,Europe/Oslo
+701,Leuwibuleud,Indonesia,Asia/Jakarta
+702,Jiuxian,China,Asia/Shanghai
+703,Jiebu,China,Asia/Shanghai
+704,Jaboatão dos Guararapes,Brazil,America/Recife
+705,Kyonju,South Korea,Asia/Seoul
+706,Gouqi,China,Asia/Shanghai
+707,Yangi-Nishon Shahri,Uzbekistan,Asia/Samarkand
+708,Ramat Gan,Israel,Asia/Jerusalem
+709,Dubravica,Bosnia and Herzegovina,Europe/Sarajevo
+710,Três Lagoas,Brazil,America/Campo_Grande
+711,Laranganglintong,Indonesia,Asia/Makassar
+712,Metz,France,Europe/Paris
+713,Susanino,Russia,Europe/Moscow
+714,Sumberjo,Indonesia,Asia/Jakarta
+715,Sławoborze,Poland,Europe/Warsaw
+716,Sepatan,Indonesia,Asia/Jakarta
+717,Namyang-dong,North Korea,Asia/Pyongyang
+718,Balite,Philippines,Asia/Manila
+719,Nalbandyan,Armenia,Asia/Yerevan
+720,Hecun,China,Asia/Shanghai
+721,Nganane,Tanzania,Africa/Dar_es_Salaam
+722,Montluel,France,Europe/Paris
+723,Chãos,Portugal,Europe/Lisbon
+724,Shchelkovo,Russia,Europe/Moscow
+725,Solidaridad,Mexico,America/Matamoros
+726,Phayuha Khiri,Thailand,Asia/Bangkok
+727,Tapakrejo,Indonesia,Asia/Jakarta
+728,Awka,Nigeria,Africa/Lagos
+729,Melíti,Greece,Europe/Athens
+730,Pehuajó,Argentina,America/Argentina/Buenos_Aires
+731,Gampingan,Indonesia,Asia/Jakarta
+732,Žleby,Czech Republic,Europe/Prague
+733,Lidköping,Sweden,Europe/Stockholm
+734,Baffa,Pakistan,Asia/Karachi
+735,Xinzheng,China,Asia/Chongqing
+736,Catujal,Portugal,Europe/Lisbon
+737,Carvalho,Portugal,Europe/Lisbon
+738,Trới,Vietnam,Asia/Ho_Chi_Minh
+739,Líně,Czech Republic,Europe/Prague
+740,Santa Rita,Bolivia,America/La_Paz
+741,Lukunor,Micronesia,Pacific/Pohnpei
+742,Bader,Indonesia,Asia/Jakarta
+743,Aūa,American Samoa,Pacific/Pago_Pago
+744,Yabrūd,Syria,Asia/Damascus
+745,Marialva,Brazil,America/Sao_Paulo
+746,Rudky,Ukraine,Europe/Uzhgorod
+747,Pivijay,Colombia,America/Bogota
+748,Dongjiao,China,Asia/Chongqing
+749,Krajan Sale,Indonesia,Asia/Jakarta
+750,Kalisari,Indonesia,Asia/Jakarta
+751,Mtsamdou,Comoros,Indian/Comoro
+752,Norsborg,Sweden,Europe/Stockholm
+753,Cristóbal,Dominican Republic,America/Santo_Domingo
+754,Rio Branco do Sul,Brazil,America/Sao_Paulo
+755,Belozërsk,Russia,Europe/Moscow
+756,Ekibastuz,Kazakhstan,Asia/Almaty
+757,Kajuru,Nigeria,Africa/Lagos
+758,Pan de Azúcar,Uruguay,America/Montevideo
+759,Xueshan,China,Asia/Chongqing
+760,Hrotovice,Czech Republic,Europe/Prague
+761,Limoges,France,Europe/Paris
+762,Lagoa Seca,Brazil,America/Fortaleza
+763,Seupakat,Indonesia,Asia/Jakarta
+764,Bafoussam,Cameroon,Africa/Douala
+765,Myanaung,Myanmar,Asia/Rangoon
+766,Verkhniye Osel’ki,Russia,Europe/Moscow
+767,Xinjie,China,Asia/Shanghai
+768,Nanlu,China,Asia/Shanghai
+769,Sūq Şirwāḩ,Yemen,Asia/Aden
+770,Okegawa,Japan,Asia/Tokyo
+771,Kabare,Democratic Republic of the Congo,Africa/Lubumbashi
+772,Sukorejo,Indonesia,Asia/Jakarta
+773,Mingjing,China,Asia/Chongqing
+774,Yaozhanzi,China,Asia/Urumqi
+775,Kraśnik,Poland,Europe/Warsaw
+776,Klimovsk,Russia,Europe/Moscow
+777,Lahan Sai,Thailand,Asia/Bangkok
+778,Sadahayu,Indonesia,Asia/Jakarta
+779,Colquechaca,Bolivia,America/La_Paz
+780,Banawang,Philippines,Asia/Manila
+781,Sukhirin,Thailand,Asia/Bangkok
+782,Girey,Russia,Europe/Moscow
+783,Huanghua,China,Asia/Shanghai
+784,Chornukhy,Ukraine,Europe/Kiev
+785,Nanyang,China,Asia/Chongqing
+786,Santiago,Philippines,Asia/Manila
+787,Shchastya,Ukraine,Europe/Zaporozhye
+788,Ponta Grossa,Brazil,America/Sao_Paulo
+789,Pul-e Sangī,Afghanistan,Asia/Kabul
+790,Si Satchanalai,Thailand,Asia/Bangkok
+791,Buldon,Philippines,Asia/Manila
+792,Buka,Indonesia,Asia/Makassar
+793,Dunhou,China,Asia/Shanghai
+794,Kristiansand S,Norway,Europe/Oslo
+795,Panjgūr,Pakistan,Asia/Karachi
+796,Fuxing,China,Asia/Chongqing
+797,Amieirinha,Portugal,Europe/Lisbon
+798,Colombo,Brazil,America/Sao_Paulo
+799,Mariscala,Uruguay,America/Montevideo
+800,Sabang,Philippines,Asia/Manila
+801,Norrahammar,Sweden,Europe/Stockholm
+802,San Antonio,Mexico,America/Mexico_City
+803,Biggar,Canada,America/Regina
+804,Vilkija,Lithuania,Europe/Vilnius
+805,Wuli,China,Asia/Chongqing
+806,Pembroke,Canada,America/Toronto
+807,Evansville,United States,America/Chicago
+808,Xiangshan,China,Asia/Shanghai
+809,Sanxi,China,Asia/Chongqing
+810,Vũ Quang,Vietnam,Asia/Ho_Chi_Minh
+811,Paris 19,France,Europe/Paris
+812,Stockholm,Sweden,Europe/Stockholm
+813,Pangatikan,Indonesia,Asia/Jakarta
+814,Madīnat Ḩamad,Bahrain,Asia/Bahrain
+815,Vicuña,Chile,America/Santiago
+816,Pontinha,Portugal,Europe/Lisbon
+817,Jiangkou,China,Asia/Chongqing
+818,‘Izbat al Burj,Egypt,Africa/Cairo
+819,Longtan,China,Asia/Shanghai
+820,Makin Village,Kiribati,Pacific/Tarawa
+821,Donskoy,Russia,Europe/Moscow
+822,Arras,France,Europe/Paris
+823,Widorokandang,Indonesia,Asia/Jakarta
+824,Santa Rosa,Peru,America/Lima
+825,Nishishinminato,Japan,Asia/Tokyo
+826,Anār Darah,Afghanistan,Asia/Kabul
+827,Yashiga,China,Asia/Chongqing
+828,Bharatpur,Nepal,Asia/Kathmandu
+829,Kvartsitnyy,Russia,Europe/Moscow
+830,Malianzhuang,China,Asia/Shanghai
+831,Kamenskiy,Russia,Europe/Volgograd
+832,Dayangqi,China,Asia/Harbin
+833,Ohafia-Ifigh,Nigeria,Africa/Lagos
+834,Daşoguz,Turkmenistan,Asia/Ashgabat
+835,Taihu,China,Asia/Harbin
+836,Baqiu,China,Asia/Shanghai
+837,Santo Domingo de los Colorados,Ecuador,America/Guayaquil
+838,Dushanbe,Tajikistan,Asia/Dushanbe
+839,Waśniów,Poland,Europe/Warsaw
+840,Tuam,Ireland,Europe/Dublin
+841,Paulínia,Brazil,America/Sao_Paulo
+842,Bayasgalant,Mongolia,Asia/Ulaanbaatar
+843,Mari,Indonesia,Asia/Makassar
+844,Buyunshan,China,Asia/Harbin
+845,San Ramon,Philippines,Asia/Manila
+846,Yamoussoukro,Ivory Coast,Africa/Abidjan
+847,Pilar do Sul,Brazil,America/Sao_Paulo
+848,Ternopil’,Ukraine,Europe/Uzhgorod
+849,Reutlingen,Germany,Europe/Berlin
+850,Pieńsk,Poland,Europe/Warsaw
+851,San Juan de Planes,Honduras,America/Tegucigalpa
+852,Al Madān,Yemen,Asia/Aden
+853,Gniezno,Poland,Europe/Warsaw
+854,Rio de Janeiro,Brazil,America/Sao_Paulo
+855,Warungawi,Indonesia,Asia/Jakarta
+856,Klakeh,Indonesia,Asia/Jakarta
+857,Ratíškovice,Czech Republic,Europe/Prague
+858,Kawaguchi,Japan,Asia/Tokyo
+859,Santa Cruz del Quiché,Guatemala,America/Guatemala
+860,Notre-Dame-des-Prairies,Canada,America/Montreal
+861,Rovira,Colombia,America/Bogota
+862,Ashchysay,Kazakhstan,Asia/Almaty
+863,Rosso,Senegal,Africa/Dakar
+864,Higuerote,Venezuela,America/Caracas
+865,Trŭn,Bulgaria,Europe/Belgrade
+866,Liloan,Philippines,Asia/Manila
+867,Winston Salem,United States,America/New_York
+868,Staraya Kupavna,Russia,Europe/Moscow
+869,Nashtā Rūd,Iran,Asia/Tehran
+870,Helsingborg,Sweden,Europe/Stockholm
+871,Jiaoziya,China,Asia/Chongqing
+872,Ar Rudayyif,Tunisia,Africa/Tunis
+873,Shangma,China,Asia/Shanghai
+874,Fenais da Luz,Portugal,Africa/Accra
+875,Amuru,Uganda,Africa/Kampala
+876,Askersund,Sweden,Europe/Stockholm
+877,Ban Tak,Thailand,Asia/Bangkok
+878,Glagahdowo,Indonesia,Asia/Jakarta
+879,Jiaocheng,China,Asia/Shanghai
+880,Washington,United States,America/New_York
+881,Vladimir,Russia,Europe/Moscow
+882,Xin’an,China,Asia/Shanghai
+883,Javhlant,Mongolia,Asia/Ulaanbaatar
+884,General La Madrid,Argentina,America/Argentina/Buenos_Aires
+885,Kharp,Russia,Asia/Yekaterinburg
+886,Illintsi,Ukraine,Europe/Kiev
+887,Guadalupe,Peru,America/Lima
+888,Labrang,China,Asia/Chongqing
+889,Chengnan,China,Asia/Shanghai
+890,Sheli,China,Asia/Harbin
+891,Kaynardzha,Bulgaria,Europe/Sofia
+892,Varpaisjärvi,Finland,Europe/Helsinki
+893,Ojo de Agua,Mexico,America/Mexico_City
+894,Kamienna Góra,Poland,Europe/Warsaw
+895,Badian,Philippines,Asia/Manila
+896,Solna,Sweden,Europe/Stockholm
+897,Milówka,Poland,Europe/Warsaw
+898,Kadudampit,Indonesia,Asia/Jakarta
+899,Cielądz,Poland,Europe/Warsaw
+900,Paris La Défense,France,Europe/Paris
+901,Qal‘at Bīshah,Saudi Arabia,Asia/Riyadh
+902,Suḩayl Shibām,Yemen,Asia/Aden
+903,Płock,Poland,Europe/Warsaw
+904,Erling,China,Asia/Shanghai
+905,Cái Dầu,Vietnam,Asia/Ho_Chi_Minh
+906,Funtua,Nigeria,Africa/Lagos
+907,Cololaca,Honduras,America/El_Salvador
+908,Huatan,China,Asia/Shanghai
+909,Sanrao,China,Asia/Shanghai
+910,Colombo,Brazil,America/Sao_Paulo
+911,Shibganj,Bangladesh,Asia/Dhaka
+912,Ipoti,Nigeria,Africa/Lagos
+913,Longvic,France,Europe/Paris
+914,Delareyville,South Africa,Africa/Johannesburg
+915,Goz Beïda,Chad,Africa/Khartoum
+916,Baqiu,China,Asia/Shanghai
+917,Pasirgaru,Indonesia,Asia/Jakarta
+918,Fucun,China,Asia/Shanghai
+919,Nuradilovo,Russia,Europe/Moscow
+920,Kukushtan,Russia,Asia/Yekaterinburg
+921,Papineauville,Canada,America/Toronto
+922,Arjona,Colombia,America/Bogota
+923,Sadská,Czech Republic,Europe/Prague
+924,Dukuhbadag,Indonesia,Asia/Jakarta
+925,Janowice,Poland,Europe/Warsaw
+926,Tanagara,Indonesia,Asia/Jakarta
+927,Arkalyk,Kazakhstan,Asia/Almaty
+928,Paseka,Czech Republic,Europe/Prague
+929,Conima,Peru,America/Lima
+930,Dalheim,Luxembourg,Europe/Luxembourg
+931,Carman,Canada,America/Winnipeg
+932,Zaoxi,China,Asia/Shanghai
+933,Samanggen,Indonesia,Asia/Jakarta
+934,Sremska Mitrovica,Serbia,Europe/Belgrade
+935,San Vicente,Philippines,Asia/Manila
+936,Oekero,Indonesia,Asia/Makassar
+937,Yaguarón,Paraguay,America/Asuncion
+938,Debrecen,Hungary,Europe/Budapest
+939,Bal Chirāgh,Afghanistan,Asia/Kabul
+940,Peliyagoda,Sri Lanka,Asia/Colombo
+941,Casal,Portugal,Europe/Lisbon
+942,Lidečko,Czech Republic,Europe/Prague
+943,Bakung,Philippines,Asia/Manila
+944,Solntsevo,Russia,Europe/Moscow
+945,Babakan,Indonesia,Asia/Jakarta
+946,Clermont-Ferrand,France,Europe/Paris
+947,Gunem,Indonesia,Asia/Jakarta
+948,Tabogon,Philippines,Asia/Manila
+949,Jovellar,Philippines,Asia/Manila
+950,Curug,Indonesia,Asia/Jakarta
+951,Manassas,United States,America/New_York
+952,Tigil’,Russia,Asia/Kamchatka
+953,Pindushi,Russia,Europe/Moscow
+954,Gobernador Ingeniero Valentín Virasoro,Argentina,America/Argentina/Cordoba
+955,San Juan,Philippines,Asia/Manila
+956,Tassin-la-Demi-Lune,France,Europe/Paris
+957,Cikujang,Indonesia,Asia/Jakarta
+958,La Tola,Colombia,America/Bogota
+959,Jagdaqi,China,Asia/Harbin
+960,Quinocay,Peru,America/Lima
+961,Moyale,Kenya,Africa/Nairobi
+962,Bokong Timur,Indonesia,Asia/Makassar
+963,Xianyuan,China,Asia/Shanghai
+964,Taiyu,China,Asia/Shanghai
+965,Muli,China,Asia/Shanghai
+966,Obispos,Venezuela,America/Caracas
+967,Huangqiao,China,Asia/Shanghai
+968,Mthatha,South Africa,Africa/Johannesburg
+969,Isfara,Tajikistan,Asia/Dushanbe
+970,Linëvo,Russia,Asia/Novosibirsk
+971,Pundong,Indonesia,Asia/Jakarta
+972,Cipari,Indonesia,Asia/Jakarta
+973,Pigeiros,Portugal,Europe/Lisbon
+974,General Belgrano,Argentina,America/Argentina/Buenos_Aires
+975,Marovoay,Madagascar,Indian/Antananarivo
+976,Zhangzhishan,China,Asia/Shanghai
+977,Paizhou,China,Asia/Shanghai
+978,Galimuyod,Philippines,Asia/Manila
+979,Montonggamang,Indonesia,Asia/Makassar
+980,Rada Tilly,Argentina,America/Argentina/Catamarca
+981,Aleksinac,Serbia,Europe/Belgrade
+982,San Isidro,Mexico,America/Mexico_City
+983,Xia Zanggor,China,Asia/Chongqing
+984,Hitachi,Japan,Asia/Tokyo
+985,Stuttgart,Germany,Europe/Berlin
+986,Balongmulyo,Indonesia,Asia/Jakarta
+987,Dobre,Poland,Europe/Warsaw
+988,Sukamenak,Indonesia,Asia/Jakarta
+989,Peterhof,Russia,Europe/Moscow
+990,Cikabuyutan Barat,Indonesia,Asia/Jakarta
+991,Georgiyevsk,Russia,Europe/Moscow
+992,Sungai,Philippines,Asia/Manila
+993,Zaoxi,China,Asia/Shanghai
+994,Město Albrechtice,Czech Republic,Europe/Prague
+995,Huanghu,China,Asia/Shanghai
+996,Gandu,Indonesia,Asia/Jakarta
+997,København,Denmark,Europe/Copenhagen
+998,Cincinnati,United States,America/New_York
+999,Lumbayan,Philippines,Asia/Manila
+1000,Zhaxi,China,Asia/Chongqing
