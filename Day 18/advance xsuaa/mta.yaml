@@ -1,0 +1,60 @@
+_schema-version: '3.1'
+ID: capbasic
+version: 1.0.0
+description: A simple CAP project.
+parameters:
+  enable-parallel-deployments: true
+build-parameters:
+  before-all:
+    - builder: custom
+      commands:
+        - npx -p @sap/cds-dk cds build --production
+modules:
+  - name: capbasic-srv
+    type: nodejs
+    path: gen/srv
+    parameters:
+      buildpack: nodejs_buildpack
+    build-parameters:
+      builder: npm-ci
+    provides:
+      - name: srv-api
+        properties:
+          srv-url: '${default-url}'
+    requires:
+      - name: capbasic-db
+      - name: capbasic-xsuaa
+  - name: capbasic-ui
+    type: nodejs
+    path: app
+    parameters:
+      buildpack: nodejs_buildpack
+    requires:
+      - name: srv-api
+        group: destinations
+        properties:
+          name: srv-api
+          strictSSL: true
+          forwardAuthToken: true
+          url: '~{srv-url}'
+  - name: capbasic-db-deployer
+    type: hdb
+    path: gen/db
+    parameters:
+      buildpack: nodejs_buildpack
+    requires:
+      - name: capbasic-db
+      - name: capbasic-xsuaa
+resources:
+  - name: capbasic-db
+    type: com.sap.xs.hdi-container
+    parameters:
+      service: hana
+      service-plan: hdi-shared
+  - name: capbasic-xsuaa
+    type: org.cloudfoundry.managed-service
+    description: Automatically created by CF
+    parameters:
+      service: xsuaa
+      service-plan: application
+      path: ./xs-security.json      
